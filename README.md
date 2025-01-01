@@ -15,10 +15,12 @@ A sleek and responsive gym website designed using HTML, CSS, and Bootstrap. This
 - CSS3: For custom styling.
 - Bootstrap 5: For responsive and modern design elements.
 
-
-
-
 ## Project Link
-
-
 - https://naveenprajapati12.github.io/gym-web/
+
+
+## Contributions
+
+Feel free to fork this repository, add your own features, and create a pull request. 
+Suggestions and feedback are always welcome!
+
