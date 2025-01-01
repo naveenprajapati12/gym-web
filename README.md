@@ -9,6 +9,6 @@ Sections for class schedules, trainer profiles, and membership plans.
 Integrated contact form for inquiries.
 Technologies Used:
 
-HTML5: For semantic structure.
+'HTML5: For semantic structure.'
 CSS3: For custom styling.
 Bootstrap 5: For responsive and modern design elements.
